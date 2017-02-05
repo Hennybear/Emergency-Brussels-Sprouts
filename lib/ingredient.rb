@@ -13,3 +13,4 @@ class Ingredient
 	end
 	
 end
+
